@@ -20,8 +20,10 @@ Baseado em uma proposta feita em minha faculdade, onde criaria-se uma plataforma
 Com isso, a intenção é criar esta plataforma em diferentes linguagens e frameworks para fins de estudo em programação e engenharia de software.
 
 ### Atualmente trabalhando:
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloFerreira1&repo=GerenciadorTCC-FeathersJS&bg_color=222&border_color=3178C6&show_icons=true&icon_color=30A3DC&title_color=3178C6&text_color=FFF&)](https://github.com/MuriloFerreira1/GerenciadorTCC-Java)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloFerreira1&repo=GerenciadorTCC-Java&bg_color=222&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B07219&text_color=FFF&)](https://github.com/MuriloFerreira1/GerenciadorTCC-Java)
+#### Outros Repositórios
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloFerreira1&repo=GerenciadorTCC-Java&bg_color=222&border_color=B07219&show_icons=true&icon_color=30A3DC&title_color=B07219&text_color=FFF&)](https://github.com/MuriloFerreira1/GerenciadorTCC-Java)
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuriloFerreira1&layout=compact&bg_color=222&border_color=4593F7&title_color=4593F7&text_color=FFF&)
