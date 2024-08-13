@@ -15,16 +15,12 @@ Olá, Sou Murilo Ferreira, Estudante de Análise e Desenvolvimento de Sistemas
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Feathers](https://img.shields.io/badge/Feathersjs-%23D513A5.svg?style=for-the-badge)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuriloFerreira1&layout=compact&bg_color=222&border_color=4593F7&title_color=4593F7&text_color=FFF&)
+
 ## Projetos Organizador de TCC
 Baseado em uma proposta feita em minha faculdade, onde criaria-se uma plataforma em que os alunos no período de desenvolvimento de TCC poderiam criar propostas de projetos a serem enviadas aos professores, além de criar um canal de comunicação entre o professor orientador e os alunos.
 Com isso, a intenção é criar esta plataforma em diferentes linguagens e frameworks para fins de estudo em programação e engenharia de software.
 
 ### Atualmente trabalhando:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloFerreira1&repo=GerenciadorTCC-FeathersJS&bg_color=222&border_color=3178C6&show_icons=true&icon_color=30A3DC&title_color=3178C6&text_color=FFF&)](https://github.com/MuriloFerreira1/GerenciadorTCC-Java)
-
-#### Outros Repositórios
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MuriloFerreira1&repo=GerenciadorTCC-Java&bg_color=222&border_color=B07219&show_icons=true&icon_color=30A3DC&title_color=B07219&text_color=FFF&)](https://github.com/MuriloFerreira1/GerenciadorTCC-Java)
-
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuriloFerreira1&layout=compact&bg_color=222&border_color=4593F7&title_color=4593F7&text_color=FFF&)
-
